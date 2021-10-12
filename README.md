@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: **yekuwilfred@gmail.com** -->
 
+[![Chetat's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetat)](https://github.com/chetat/github-readme-stats)
