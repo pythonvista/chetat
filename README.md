@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: **yekuwilfred@gmail.com** -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chetat&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
