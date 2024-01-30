@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Yeku Wilfred Chetat</h1>
+<h1 align="center">Hi 👋, I'm Wilfred Yeku</h1>
 <h3 align="left">Software Engineer | Open source contributor</h3>
 
 <!-- 
